@@ -18,7 +18,7 @@ src:\ This folder contains a googlecolab file with codes that can be run to repr
 ## Results
 * The total profit of the company increased over years dues to increase in volume of sales.
 * However, the average profitability per sale reduced in 2023 despite a similar average discount over the four years.
-* 
+* The company consistently losses profit in countires like Austarial, Russia, South Africa and Mexico.
 
 ![image](https://github.com/user-attachments/assets/dd42dfa3-8c83-4567-8203-5d82aed851e5)
 ![image](https://github.com/user-attachments/assets/8c235094-a81a-42d4-ba0e-7203b1cd5af3)
