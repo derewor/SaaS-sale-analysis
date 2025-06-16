@@ -25,7 +25,12 @@ src:\ This folder contains a googlecolab file with codes that can be run to repr
 ![image](https://github.com/user-attachments/assets/8c235094-a81a-42d4-ba0e-7203b1cd5af3)
 
 
-
-
 https://public.tableau.com/app/profile/dereje.worku.mekonnen/viz/SaaSsales_17497417267670/Story1
+## Author
+Dereje W. Mekonnen
+
+derewor@gmail.com
+
+https://www.linkedin.com/in/dereje-worku-mekonnen-a8345217/
+
 
