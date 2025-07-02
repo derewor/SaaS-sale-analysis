@@ -1,5 +1,5 @@
 # SaaS-sale-analysis
-The business performance of SaaS company
+The business performance of SaaS selling company
 
 ## Objective
 This project aimed at evaluating the business performace of SaaS company to redefine the business strategy.
